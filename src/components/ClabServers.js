@@ -65,7 +65,7 @@ const ClabServers = ({ user }) => {
         },
         body: JSON.stringify({
           username: user?.username || 'admin',
-          password: 'arastra'
+          password: 'ul678clab'
         }),
       });
       
